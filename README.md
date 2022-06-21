@@ -20,19 +20,19 @@ Full stack development and UI design |  [WISH BOARD](https://play.google.com/sto
 <br>
 
 ## **Skills**
-<img src="https://img.shields.io/badge/Android-3DFC84?style=flat-square&logo=Android&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/Kotlin-3DFC84?style=flat-square&logo=Kotlin&logoColor=black"/>&nbsp;
+<!-- <img src="https://img.shields.io/badge/Android-3DFC84?style=flat-square&logo=Android&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Kotlin-3DFC84?style=flat-square&logo=Kotlin&logoColor=black"/>&nbsp; -->
 <img src="https://img.shields.io/badge/Java-3DFC84?style=flat-square&logo=Java&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3DFC84?style=flat-square&logo=Python&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/C++-3DFC84?style=flat-square&logo=C%2B%2B&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/aws-3DFC84?style=flat-square&logo=amazon-aws&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Node.js-3DFC84?style=flat-square&logo=Node.js&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-3DFC84?style=flat-square&logo=MySQL&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/Oracle-3DFC84?style=flat-square&logo=Oracle&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-3dFF84?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-3DFC84?style=flat-square&logo=HTML5&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-3DFC84?style=flat-square&logo=CSS3&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/php-3DFC84?style=flat-square&logo=php&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Django-3DFC84?style=flat-square&logo=Django&logoColor=black"/>&nbsp;
+
+ 
 
 <br>
 
