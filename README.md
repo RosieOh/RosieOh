@@ -8,14 +8,14 @@
 <br>
 
 ## **Projects**
-**2021 May**&nbsp;&nbsp; &nbsp;
+<!-- **2021 May**&nbsp;&nbsp; &nbsp;
 Full stack development and UI design |  [WISH BOARD](https://play.google.com/store/apps/details?id=com.hyeeyoung.wishboard), Wishlist integrated management app for Android
 
 **2020 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full stack development and UI design | [PICK](https://github.com/yougjinc/Pick), Voting app to help you choose for Android
 
 **2019 Oct**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Android development | [냉장GO](https://github.com/youngjinc/NaengjanGo), Refrigerator ingredients management app for Android 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sungshin Women's University Software Competition, a bronze statue in the lower grades
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sungshin Women's University Software Competition, a bronze statue in the lower grades -->
 
 <br>
 
