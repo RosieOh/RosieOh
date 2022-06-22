@@ -25,9 +25,7 @@ Full stack development and UI design |  [WISH BOARD](https://play.google.com/sto
 <br>
 
 ## **Skills**
-<img src="https://img.shields.io/badge/Java-3DFC84?style=flat-square&logo=Java&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/Spring-3DFC84?style=flat-square&logo=Spring&logoColor=black"/>&nbsp;
-</br>
+<img src="https://img.shields.io/badge/R-3DFC84?style=flat-square&logo=R&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3DFC84?style=flat-square&logo=Python&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Django-3DFC84?style=flat-square&logo=Django&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Flask-3DFC84?style=flat-square&logo=Flask&logoColor=black"/>&nbsp;
@@ -37,6 +35,9 @@ Full stack development and UI design |  [WISH BOARD](https://play.google.com/sto
 <img src="https://img.shields.io/badge/Scipy-3DFC84?style=flat-square&logo=Scipy&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Tensorflow-3DFC84?style=flat-square&logo=Tensorflow&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Keras-3DFC84?style=flat-square&logo=Keras&logoColor=black"/>&nbsp;
+</br>
+<img src="https://img.shields.io/badge/Java-3DFC84?style=flat-square&logo=Java&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Spring-3DFC84?style=flat-square&logo=Spring&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/R-3DFC84?style=flat-square&logo=R&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/aws-3DFC84?style=flat-square&logo=amazon-aws&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Node.js-3DFC84?style=flat-square&logo=Node.js&logoColor=black"/>&nbsp;
