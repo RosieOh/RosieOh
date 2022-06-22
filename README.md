@@ -25,10 +25,9 @@ Full stack development and UI design |  [WISH BOARD](https://play.google.com/sto
 <br>
 
 ## **Skills**
-<!-- <img src="https://img.shields.io/badge/Android-3DFC84?style=flat-square&logo=Android&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/Kotlin-3DFC84?style=flat-square&logo=Kotlin&logoColor=black"/>&nbsp; -->
 <img src="https://img.shields.io/badge/Java-3DFC84?style=flat-square&logo=Java&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring-3DFC84?style=flat-square&logo=Spring&logoColor=black"/>&nbsp;
+</br>
 <img src="https://img.shields.io/badge/Python-3DFC84?style=flat-square&logo=Python&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Django-3DFC84?style=flat-square&logo=Django&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Flask-3DFC84?style=flat-square&logo=Flask&logoColor=black"/>&nbsp;
