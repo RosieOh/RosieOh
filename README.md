@@ -60,5 +60,5 @@ Full stack development and UI design |  [WISH BOARD](https://play.google.com/sto
 </p>
 
 ## **stats
-![20172207@gm.hannam.ac.kr's github stats](https://github-readme-stats.vercel.app/api?username=20172207@gm.hannam.ac.kr&show_icons=true)
-[![20172207@gm.hannam.ac.kr's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=20172207@gm.hannam.ac.kr&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/20172207@gm.hannam.ac.kr)
+![RosieOh's github stats](https://github-readme-stats.vercel.app/api?username=20172207@gm.hannam.ac.kr&show_icons=true)
+[![RosieOh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=20172207@gm.hannam.ac.kr&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/20172207@gm.hannam.ac.kr)
