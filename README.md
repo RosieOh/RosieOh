@@ -34,8 +34,7 @@ Full stack development and UI design |  [WISH BOARD](https://play.google.com/sto
 <img src="https://img.shields.io/badge/Flask-3DFC84?style=flat-square&logo=Flask&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/NumPy-3DFC84?style=flat-square&logo=NumPy&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Pandas-3DFC84?style=flat-square&logo=Pandas&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/Boech-3DFC84?style=flat-square&logo=Boech&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-3DFC84?style=flat-square&logo=Matplotlib&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/MatPlotlib-3DFC84?style=flat-square&logo=MatPlotlib&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Scipy-3DFC84?style=flat-square&logo=Scipy&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Tensorflow-3DFC84?style=flat-square&logo=Tensorflow&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Keras-3DFC84?style=flat-square&logo=Keras&logoColor=black"/>&nbsp;
