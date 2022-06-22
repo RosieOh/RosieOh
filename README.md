@@ -34,6 +34,11 @@ Full stack development and UI design |  [WISH BOARD](https://play.google.com/sto
 <img src="https://img.shields.io/badge/Flask-3DFC84?style=flat-square&logo=Flask&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/NumPy-3DFC84?style=flat-square&logo=NumPy&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Pandas-3DFC84?style=flat-square&logo=Pandas&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Boech-3DFC84?style=flat-square&logo=Boech&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-3DFC84?style=flat-square&logo=Matplotlib&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Scipy-3DFC84?style=flat-square&logo=Scipy&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Tensorflow-3DFC84?style=flat-square&logo=Tensorflow&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Keras-3DFC84?style=flat-square&logo=Keras&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/aws-3DFC84?style=flat-square&logo=amazon-aws&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Node.js-3DFC84?style=flat-square&logo=Node.js&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/React.js-3DFC84?style=flat-square&logo=React.js&logoColor=black"/>&nbsp;
@@ -50,8 +55,6 @@ Full stack development and UI design |  [WISH BOARD](https://play.google.com/sto
 ## **Tools**
 <img src="https://img.shields.io/badge/Figma-97ddf4?style=flat-square&logo=figma&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Illustrator-97ddf4?style=flat-square&logo=adobeillustrator&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/Photoshop-97ddf4?style=flat-square&logo=adobephotoshop&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/XD-97ddf4?style=flat-square&logo=adobexd&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Git-97ddf4?style=flat-square&logo=git&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Slack-97ddf4?style=flat-square&logo=slack&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Notion-97ddf4?style=flat-square&logo=notion&logoColor=black"/>&nbsp;
