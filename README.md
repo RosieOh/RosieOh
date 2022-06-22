@@ -3,7 +3,7 @@
 <br>
 
 ## **Education**
-**2017 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hannam University, Globalbusiness & Bigdata
+**2017 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hannam University, Globalbusiness & Bigdata major
 
 <br>
 
