@@ -8,7 +8,7 @@
 <br>
 
 ## **Projects**
-2021 Mar**&nbsp;&nbsp; &nbsp;
+2021 Mar&nbsp;&nbsp; &nbsp;
 General Planning |  [Mendorong-University](http://mendorong-university.com/), Mentoring integrated management Web for Internet
 <!-- **2021 May**&nbsp;&nbsp; &nbsp;
 Full stack development and UI design |  [WISH BOARD](https://play.google.com/store/apps/details?id=com.hyeeyoung.wishboard), Wishlist integrated management app for Android
