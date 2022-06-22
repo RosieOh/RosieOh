@@ -12,7 +12,7 @@
 General Planning |  [Mendorong-University](http://mendorong-university.com/), Mentoring integrated management Web for Internet
 
 2022 Feb&nbsp;&nbsp; &nbsp;
-Representative Director / Full Stack Developer |  [MediRing](http://mendorong-university.com/), Recommendation and sales of nutritional supplements integrated management Web for Internet
+Representative Director / Full Stack Developer |  [MediRing](http://mendorong-university.com/), Recommendation and sales of nutritional supplements 
 <!-- **2021 May**&nbsp;&nbsp; &nbsp;
 Full stack development and UI design |  [WISH BOARD](https://play.google.com/store/apps/details?id=com.hyeeyoung.wishboard), Wishlist integrated management app for Android
 
