@@ -2,12 +2,17 @@
 
 <br>
 
-## **Education**
+## **📚Education**
 **2017 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hannam University, Globalbusiness & Bigdata major
 
 <br>
 
-## **Projects**
+<br>
+## **🏆Careers**
+**2021.12 ~ 2022.02**
+
+
+## **🧑‍💻Projects**
 2021 Mar&nbsp;&nbsp; &nbsp;
 General Planning |  [Mendorong-University](http://mendorong-university.com/), Mentoring integrated management Web for Internet
 
