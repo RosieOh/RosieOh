@@ -8,8 +8,8 @@
 <br>
 
 ## **🏆Careers**
-**2017 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hannam Univer
 **2021 DEC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;주)다른코리아, 개발팀 BackEnd 인턴
+
 **2021 FEB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;한남대학교 초기창업패키지 창업팀, '멘도롱대학' Direct Planner
 
 <br>
