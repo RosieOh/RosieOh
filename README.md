@@ -59,6 +59,6 @@ Full stack development and UI design |  [WISH BOARD](https://play.google.com/sto
 <img src="https://img.shields.io/badge/Notion-97ddf4?style=flat-square&logo=notion&logoColor=black"/>&nbsp;
 </p>
 
-## **stats
-![RosieOh's github stats](https://github-readme-stats.vercel.app/api?username=20172207@gm.hannam.ac.kr&show_icons=true)
-[![RosieOh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=20172207@gm.hannam.ac.kr&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/20172207@gm.hannam.ac.kr)
+## **stats**
+![RosieOh's github stats](https://github-readme-stats.vercel.app/api?username=RosieOh&show_icons=true)
+[![RosieOh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RosieOh&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/RosieOh)
