@@ -40,7 +40,7 @@ Full stack development and UI design |  [WISH BOARD](https://play.google.com/sto
 <img src="https://img.shields.io/badge/Spring-3DFC84?style=flat-square&logo=Spring&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/aws-3DFC84?style=flat-square&logo=amazon-aws&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Node.js-3DFC84?style=flat-square&logo=Node.js&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/React.js-3DFC84?style=flat-square&logo=React.js&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/React-3DFC84?style=flat-square&logo=React&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/three.js-3DFC84?style=flat-square&logo=three.js&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/PHP-3DFC84?style=flat-square&logo=PHP&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-3DFC84?style=flat-square&logo=MySQL&logoColor=black"/>&nbsp;
