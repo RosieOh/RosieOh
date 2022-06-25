@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20rMy Profile&fontSize=90)
 
 <br>
 
@@ -72,3 +72,5 @@ Full stack development and UI design |  [WISH BOARD](https://play.google.com/sto
 ## **stats**
 ![RosieOh's github stats](https://github-readme-stats.vercel.app/api?username=RosieOh&show_icons=true)
 [![RosieOh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RosieOh&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/RosieOh)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
