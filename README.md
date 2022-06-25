@@ -74,4 +74,4 @@ Full stack development and UI design |  [WISH BOARD](https://play.google.com/sto
 [![RosieOh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RosieOh&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/RosieOh)
 
 
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=auto&height=300&section=header&text=Hi!%20Rosie'sProfile&fontSize=90&rotate=-180)
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=false&color=auto&height=300&section=header&text=Hi!%20Rosie'sProfile&fontSize=90)
