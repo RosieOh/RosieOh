@@ -1,4 +1,4 @@
-<!-- <center><img src="https://capsule-render.vercel.app/api?text=Youngjin &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Choi&fontColor=000000&type=soft&color=FFFFFF&animation=twinkling&fontSize=100"/></center> -->
+<center> <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <br>
 
