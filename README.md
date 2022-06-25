@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center">**📞SNS**</p>
+<p align="center"> **📞SNS** </p>
 **2017 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hannam University, Globalbusiness & Bigdata major
 
 <br>
