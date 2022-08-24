@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center" fontSize=18> <b>📞SNS List</b> <a href="https://velog.io/@dhxogns920" target="_blank"><img src="https://img.shields.io/badge/#20C997?style=flat-square&logo=velog&logoColor=white"/></a> </p>
+<p align="center" fontSize=18> <b>📞SNS List</b> <a href="https://velog.io/@dhxogns920" target="_blank"><img src="https://img.shields.io/badge/Velog#20C997?style=flat-square&logo=velog&logoColor=white"/></a> </p>
 
 <!-- **2017 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hannam University, Globalbusiness & Bigdata major -->
 
