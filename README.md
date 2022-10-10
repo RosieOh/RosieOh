@@ -10,7 +10,7 @@ I'am Taehoon Oh, who is interested in Backend develop from South Korea.
   
 
 - ❓If you want to contact me, please leave me a message!
-  
+</div>  
   
 
 <br/>  
