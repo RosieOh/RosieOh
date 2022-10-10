@@ -35,8 +35,9 @@ I'am Taehoon Oh, who is interested in Backend develop from South Korea.
 </a>  
 </div>  
 <br/>  
+
 ## Github Stats  
-<div align="center">![RosieOh's github stats](https://github-readme-stats.vercel.app/api?username=RosieOh&show_icons=true)</div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RosieOh&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 <br/> 
 
 ----
