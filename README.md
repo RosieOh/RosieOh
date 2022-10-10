@@ -1,6 +1,6 @@
 ### <div align="center">Hi there👋
 I'am Taehoon Oh, who is interested in Backend develop from South Korea. 
-👨‍💻 working remotely since 2021 🚀</div>  
+👨‍💻 working remotely since 2021 🚀
   
 
 - 🔭 I’m currently working on [RosieOh's Github](https://github.com/RosieOh)  
