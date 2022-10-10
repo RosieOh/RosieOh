@@ -102,7 +102,7 @@ I'am Taehoon Oh, who is interested in Backend develop from South Korea.
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mb45ynxqcjexd7wzc4udppfv5m&cover_image=true&theme=karaoke&show_offline=false)](https://spotify-github-profile.vercel.app/api/view?uid=31mb45ynxqcjexd7wzc4udppfv5m&redirect=true)
 <br />
 
 ----
