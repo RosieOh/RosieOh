@@ -64,5 +64,5 @@
   ![Rosie's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosieOh&show_icons=true&theme=dracula)
 </div>
 
-<br/>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&fontSize=90)
