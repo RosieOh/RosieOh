@@ -62,8 +62,5 @@
   
   ![Rosie's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosieOh&show_icons=true&theme=dracula)
 </div>
-  
-<!--   ![Rosie's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosieOh&show_icons=true&theme=dracula) -->
-
 
 <br/>
