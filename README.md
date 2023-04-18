@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Rosie'sGitHub)
-
+<div align="center"> 
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=Rosie'sGitHub)
+  
+</div>
 
 ### <div align="center">Hi there👋
 I'am Taehoon Oh, who is interested in Backend develop from South Korea. 
