@@ -8,7 +8,7 @@
   
   Hi there👋
 
-  I'am Taehoon Oh, who is interested in Backend develop from South Korea. 
+  I'am Taehoon Oh, who is interested in Backend develop from South Korea. <br/>
   👨‍💻 working remotely since 2021 🚀
   
 
