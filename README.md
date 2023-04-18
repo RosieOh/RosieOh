@@ -1,6 +1,6 @@
 <div align="center"> 
-  ![header](https://capsule-render.vercel.app/api?type=waving&text=Rosie'sGitHub)
   
+  ![header](https://capsule-render.vercel.app/api?type=waving)
 </div>
 
 ### <div align="center">Hi there👋
