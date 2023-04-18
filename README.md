@@ -33,7 +33,7 @@
 
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&slug=Velog-포스트로-Github를-꾸며보자)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dhxogns920&slug=Velog-포스트로-Github를-꾸며보자)]([https://github.com/eungyeole/velog-readme-stats](https://velog.io/@dhxogns920/React-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0-1))
 
 
 
