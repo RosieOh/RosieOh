@@ -4,17 +4,18 @@
 </div>
 
 ### <div align="center">Hi there👋
-I'am Taehoon Oh, who is interested in Backend develop from South Korea. 
-👨‍💻 working remotely since 2021 🚀
+
+  I'am Taehoon Oh, who is interested in Backend develop from South Korea. 
+  👨‍💻 working remotely since 2021 🚀
   
 
-- 🔭 I’m currently working on [RosieOh's Github](https://github.com/RosieOh)  
+  - 🔭 I’m currently working on [RosieOh's Github](https://github.com/RosieOh)  
   
 
-- 🌱 I’m currently learning Back-End and Machine-Learning  
+  - 🌱 I’m currently learning Back-End and Machine-Learning  
   
 
-- ❓If you want to contact me, please leave me a message!
+  - ❓If you want to contact me, please leave me a message!
 </div>  
   
 
