@@ -29,8 +29,11 @@
 </div>
 
 
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dhxogns920)](https://github.com/eungyeole/velog-readme-stats)
+## Velog Post
+<div align="center"> 
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dhxogns920)](https://github.com/eungyeole/velog-readme-stats)
+</div>
 
 
 
