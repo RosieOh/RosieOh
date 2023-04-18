@@ -1,6 +1,6 @@
 <div align="center"> 
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Rosie&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Rosie&fontSize=70)
 
 </div>
 
@@ -64,5 +64,7 @@
   ![Rosie's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosieOh&show_icons=true&theme=dracula)
 </div>
 
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&fontSize=90)
+  <div align="center"> 
+  
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=footer&fontSize=90)
+</div>
