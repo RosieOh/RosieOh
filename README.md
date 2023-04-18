@@ -71,6 +71,7 @@
   <br>
 </div>
 
+<br/>
 
 <div align=center><h1>📚 Velog Post</h1></div>
 
@@ -79,9 +80,10 @@
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dhxogns920&color=dark)](https://github.com/eungyeole/velog-readme-stats)
 </div>
 
+<br>
 
+<div align=center><h1>📚 Connect with me </h1></div>
 
-## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/RosieOh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -101,7 +103,8 @@
 </div>  
 <br/>  
 
-## Github Stats  
+<div align=center><h1>📚 GitHub Stats </h1></div> 
+
   <div align="center"> 
   
   ![Rosie's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosieOh&show_icons=true&theme=dracula)
