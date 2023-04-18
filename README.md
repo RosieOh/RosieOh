@@ -60,7 +60,7 @@
 ## Github Stats  
   ![Anurag's GitHub stats] (https://github-readme-stats.vercel.app/api?username=RosieOh&show_icons=true&theme=radical) 
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosieOh&show_icons=true&theme=radical)
+  ![Rosie's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosieOh&show_icons=true&theme=radical)
 
 
 <br/>
