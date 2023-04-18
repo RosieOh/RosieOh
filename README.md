@@ -72,7 +72,7 @@
 </div>
 
 
-## Velog Post
+<div align=center><h1>📚 Velog Post</h1></div>
 <div align="center"> 
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dhxogns920&color=dark)](https://github.com/eungyeole/velog-readme-stats)
