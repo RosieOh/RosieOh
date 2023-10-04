@@ -80,9 +80,12 @@
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dhxogns920&color=dark)](https://github.com/eungyeole/velog-readme-stats)
 </div> -->
-  
+
+<br/>
+
+
 <!-- IDE의 활동이 기록 -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jogilsang)](https://wakatime.com/@RosieOh)
+<div align="center">[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jogilsang)](https://wakatime.com/@RosieOh) </div>
 
 <br>
 
