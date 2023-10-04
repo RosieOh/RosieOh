@@ -81,15 +81,16 @@
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dhxogns920&color=dark)](https://github.com/eungyeole/velog-readme-stats)
 </div> -->
 <div align="center">
+  
 <!-- IDE의 활동이 기록 -->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jogilsang)](https://wakatime.com/@RosieOh)
-</div>
 
 <br>
 
-<div align="center">
+
 <!-- 배경화면 트로피 설정 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=RosieOh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 <br>
