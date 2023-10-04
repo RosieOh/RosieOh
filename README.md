@@ -83,12 +83,8 @@
 
 <br/>
 
-
-<!-- IDE의 활동이 기록 -->
-
 <!-- 배경화면 트로피 설정 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=RosieOh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=RosieOh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <br>
 
@@ -121,7 +117,7 @@
 
   ![Rosie's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosieOh&show_icons=true&theme=radical)
 </div>-->
-
+<!-- IDE의 활동이 기록 -->
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosieOh&layout=compact">
