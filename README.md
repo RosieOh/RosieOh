@@ -131,7 +131,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhxogns920)](https://solved.ac/dhxogns920)
 </div>
 <br>
+
+
 ![](./profile-3d-contrib/profile-season-animate.svg)
+
   <div align="center"> 
   
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=footer&fontSize=90)
