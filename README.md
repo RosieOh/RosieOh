@@ -85,7 +85,7 @@
 
 
 <!-- IDE의 활동이 기록 -->
-<div align="center">[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jogilsang)](https://wakatime.com/@RosieOh) </div>
+[![Rosie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jogilsang)](https://wakatime.com/@RosieOh)
 
 <br>
 
