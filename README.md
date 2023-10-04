@@ -85,10 +85,6 @@
 
 
 <!-- IDE의 활동이 기록 -->
-[![Rosie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RosieOh)](https://wakatime.com/@RosieOh)
-
-<br>
-
 
 <!-- 배경화면 트로피 설정 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=RosieOh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
