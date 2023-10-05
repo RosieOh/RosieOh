@@ -84,7 +84,7 @@
 <br/>
 
 <!-- 배경화면 트로피 설정 -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=RosieOh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=RosieOh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
