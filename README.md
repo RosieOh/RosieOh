@@ -129,7 +129,8 @@
 ![Rosie's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=RosieOh&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff")
 -->
 
-<br>
+<br/>
+<br/>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhxogns920)](https://solved.ac/dhxogns920)
