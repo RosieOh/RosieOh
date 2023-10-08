@@ -111,13 +111,6 @@
 
 <div align=center><h1>📚 GitHub Stats </h1></div> 
 
-  <div align="center"> 
-  
-  <!-- ![Rosie's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosieOh&show_icons=true&theme=dracula)
-
-  ![Rosie's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosieOh&show_icons=true&theme=radical)
-</div>-->
-<!-- IDE의 활동이 기록 -->
 <div align=center>
 	<br>
 
