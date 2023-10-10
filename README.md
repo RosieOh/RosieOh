@@ -15,6 +15,24 @@
   
 </div>  
 
+<br>
+
+<div align="center">
+
+ <div align=center><h1>👩🏻‍💻Career👩🏻‍💻</h1></div>
+
+> 💻 Marketing team Leader of SK텔레콤 T프렌즈 (2017.04 ~ 2017.09) <br>
+> 💻 Delegate of 2017 APCS(Asia Pacific Cities Summit & Mayors' Forum) (2017.06 ~ )<br>
+> 💡 Team Leader of Team Limked (2022.03 ~ 2022.12 ) <br>
+> 🦁 Leader of Hannam University of Likelion (2023.02 ~ ) <br>
+> 💡 팀 위바인더 DayMaker Project FullStack Developer 팀장 (2023.04 ~ )<br>
+> 💡 2023 한이음 멘토링 한국IBM 연계 "Generative AI를 활용한 교육서비스 개발" 팀장 / 백엔드  (2023.05 ~ )<br>
+> 💡 2023 경기도 Gen AI 공공데이터활용 창업경진대회 팀 “와차!” 팀장 및 백엔드 개발 (2023.04 ~ 2023.06) <br>
+> 👩🏻‍🔬 (주)다른코리아 개발팀 백엔드 개발 인턴  (2021.12 ~ 2021.03 ) <br>
+> 👩🏻‍🔬 (주)에코바이오의학연구소 취업연계근로장학생 백엔드 개발 (2021.03 ~ 2022.06) <br>
+> 👩🏻‍🔬 (주)유진바이오텍 취업연계근로장학생 백엔드 개발 (2022.06 ~ 2023.12) <br>
+
+</div>
   
 
 <br/>  
