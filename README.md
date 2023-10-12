@@ -1,6 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=RosieOh&fontSize=40&fontAlign=80&fontAlignY=40&color=gradient)
+
 <div align="center"> 
-  
+  <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Rosie&fontSize=70)
+-->
 
 </div>
 
