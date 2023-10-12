@@ -154,5 +154,5 @@
 
   <div align="center"> 
   
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=footer&fontSize=90)
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=90)
 </div>
