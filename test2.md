@@ -1,17 +1,17 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welcome&height=150&fontSize=60&desc=hayoun_Song%20Github%20&descAlignY=75&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welcome&height=150&fontSize=60&desc=Taehoon_Oh%20Github%20&descAlignY=75&descAlign=60)
 <br></br>
 
 <h2>💡 About Me!  </h2>
 
-<h>🖐 넓은 시야의 개발자를 꿈꾸는 주니어 개발자입니다 </b>.  <br></br></h>
+<h>🖐 데이터를 기반으로 더 나은 서비스를 도출하는 꿈꾸는 주니어 개발자입니다 </b>.  <br></br></h>
 
 <h2>🎓 Experience & Social Activity</h2>
 
 |소속 및 단체|활동 기간|내용|
 |---|---|---|
-|OO대학교| 2018.03~  | OO대학교 소프트웨어학부 재학
+|OO대학교| 2018.03~  | OO대학교 린튼글로벌스쿨 / 빅데이터 융합 전공 재학
 |블랙스톤|2019.12 ~ 2020.03| 내 손 안의 무인결제기 오더얌 모바일 웹 키오스크 서비스 Frontend 인턴 개발자 |
 |삼성전자|2023.06 ~ 2023.08| 2023 하반기 (주) 삼성전자 인턴 개발자 |
 |피로그래밍 16th, 17th|2021.12 ~ 2022.08| 연합 웹 개발 동아리 Pirogramming 16th,17th |
@@ -83,12 +83,3 @@
 </div><br/>
 
 ![Hayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayounSong&show_icons=true&count_private=true&include_all_commits=true)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fishingest)](https://solved.ac/fishingest/)
-
-
-<!--
-
-
-
-**hayounSong/hayounSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-
-Here are some ideas to get you started:
