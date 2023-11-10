@@ -1,33 +1,36 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=RosieOh&fontSize=40&fontAlign=80&fontAlignY=40&color=gradient)
 
-<div align="center"> 
-  <!--
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Rosie&fontSize=70)
--->
 
-</div>
 
 <!-- <img width="100%" src="https://user-images.githubusercontent.com/80378085/150538122-d0c8472f-4b8c-4544-a35c-27c398234308.gif"/> -->
 
-<div align="center">
-  
-  Hi there👋
+<h2>💡 About Me!  </h2>
 
-  I'am Taehoon Oh, who is interested in Backend develop from South Korea. <br/>
-  👨‍💻 working remotely since 2021 🚀
-  
-</div>  
+<h>🖐 넓은 시야의 개발자를 꿈꾸는 주니어 개발자입니다 </b>.  <br></br></h>
 
-<br>
+<h2>🎓 Experience & Social Activity</h2>
+ 
+|소속 및 단체|활동 기간|내용|
+|---|---|---|
+|OO대학교| 2017.03~  | OO대학교 린튼글로벌스쿨 글로벌비즈니스학과 / 빅데이터전공 재학
+|(주)다른코리아|2021.12 ~ 2022.03| (주)다른코리아 개발팀 BackEnd 인턴 개발자 |
+|(주)에코바이오의학연구소|2022.03 ~ 2022.06| (주)에코바이오의학연구소 자사 브랜드 HeadSpaK 취업연계근로장학생 BackEnd 개발|
+|(주)웅진북센|2021.01 ~ 2021.04| (주)웅진북센 디지털 전자책 혁신아이디어 공모전 - 전자책 대여 어플리케이션 "팀_신기루" 팀장 / BackEnd|
+|데이터청년캠퍼스|2022.06 ~ 2022.09| 2022 데이터청년캠퍼스 - OO대학교 "WakeForCargo" 팀장 / BackEnd, MLOps |
+|멘도롱대학|2021.05 ~ 2021.12| 2022 예비창업패키지 창업팀 "청춘의 한 장" / 전문가 추천 기반 대학생 교육 멘토링 추천 플랫폼 "멘도롱 대학" 기획 / BackEnd 개발 |
+|TeamLimked|2022.03 ~ 2022.12| 2022 초기창업패키지 창업팀 "TeamLimked" / 아이템 추천 기반 건강기능식품 추천 플랫폼 "MediRing" 팀장 / BackEnd 개발 |
+|Weebinder|2023.04 ~ 2023.12| 2023 초기창업패키지 창업팀 Weebinder / 일상 루틴 추천 플랫폼 "DayMaker" 개발팀 팀장 / BackEnd 개발 |
+|한이음 멘토링|2023.05 ~ 2023.11| 2023 한이음 멘토링 한국IBM 연계 "Generative AI를 활용한 교육서비스 개발" 팀장 / BackEnd |
+|멋쟁이사자처럼 11기|2023.02 ~2023.12| 2023 멋쟁이사자처럼 11기 OO대학교 대표 / 백엔드 운영 총괄|
+|APCS Forum|2017.06 ~| Delegate of 2017 APCS(Asia Pacific Cities Summit & Mayors' Forum)|
 
 
- <div align=center><h1>👩🏻‍💻Career👩🏻‍💻</h1></div>
-
+<!--
 > 💻 SK텔레콤 T프렌즈 마케팅팀 팀장(2017.04 ~ 2017.09) <br>
 > 💻 Delegate of 2017 APCS(Asia Pacific Cities Summit & Mayors' Forum) (2017.06 ~ )<br>
 > 💡 (주)웅진북센 디지털 전자책 혁신아이디어 공모전 - 전자책 대여 어플리케이션 "팀_신기루" 팀장 / 백엔드 (2021.01 ~ 2021.04)<br>
 > 💡 Team Developer & Strategy Management of 멘도롱대학 (2021.05 ~ 2021.12)<br>
-> 💡 2022 데이터청년캠퍼스 - 한남대학교 "WakeForCargo" 팀장 / 백엔드,MLOps  (2022.06 ~ 2022.09)<br>
+> 💡 2022 데이터청년캠퍼스 - 한남대학교 "WakeForCargo" 팀장 / 백엔드, MLOps  (2022.06 ~ 2022.09)<br>
 > 💡 Team Leader of Team Limked (2022.03 ~ 2022.12 ) <br>
 > 🦁 Leader of Hannam University of Likelion (2023.02 ~ ) <br>
 > 💡 팀 위바인더 of DayMaker Project FullStack Developer 팀장 (2023.04 ~ )<br>
@@ -35,7 +38,7 @@
 > 💡 2023 경기도 Gen AI 공공데이터활용 창업경진대회 팀 “와차!” 팀장 및 백엔드 개발 (2023.04 ~ 2023.06) <br>
 > 👩🏻‍🔬 (주)다른코리아 개발팀 백엔드 개발 인턴  (2021.12 ~ 2021.03 ) <br>
 > 👩🏻‍🔬 (주)에코바이오의학연구소 취업연계근로장학생 백엔드 개발 (2021.03 ~ 2022.06) <br>
-> 👩🏻‍🔬 (주)유진바이오텍 취업연계근로장학생 백엔드 개발 (2022.06 ~ 2023.12) <br>
+> 👩🏻‍🔬 (주)유진바이오텍 취업연계근로장학생 백엔드 개발 (2022.06 ~ 2023.12) <br> -->
 
   
 
