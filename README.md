@@ -6,8 +6,8 @@
 
 <h2>💡 About Me!  </h2>
 
-<h4 align=center>🖐 데이터를 기반으로 더 나은 서비스를 개발하기 위해 노력하는 주니어 개발자입니다 </b>.  <br></br></h>
-<h4 align=center> 생각했던 모든 아이디어, 사회 이슈 문제를 개발로써 해결하고자 합니다.</h>
+<h4 align=center>🖐 데이터를 기반으로 더 나은 서비스를 개발하기 위해 노력하는 주니어 개발자입니다 </b>.  <br></br></h4>
+<h4 align=center> 생각했던 모든 아이디어, 사회 이슈를 제가 가진 개발 역량을 활용해 구현하고 해결하고자 합니다.</h4>
 
 <h2>🎓 Experience & Social Activity</h2>
  
