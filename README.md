@@ -9,6 +9,7 @@
 <h4 align=center>🖐 데이터를 기반으로 더 나은 서비스를 개발하기 위해 노력하는 주니어 개발자입니다 </b>.  <br></br></h4>
 <h4 align=center> 생각했던 모든 아이디어, 사회 이슈를 제가 가진 개발 역량을 활용해 구현하고 해결하고자 합니다.</h4>
 
+<!--
 <h2>🎓 Experience & Social Activity</h2>
  
 |소속 및 단체|활동 기간|내용|
@@ -24,6 +25,7 @@
 |한이음 멘토링|23.05 ~ 23.11| 2023 한이음 멘토링 한국IBM 연계 "Generative AI를 활용한 교육서비스 개발" 팀장 / BackEnd |
 |멋쟁이사자처럼 11기|23.02 ~23.12| 2023 멋쟁이사자처럼 11기 OO대학교 대표 / 백엔드 운영 총괄|
 |APCS Forum|17.06 ~| Delegate of 2017 APCS(Asia Pacific Cities Summit & Mayors' Forum)|
+-->
   
 
 <br/>  
