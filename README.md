@@ -1,17 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=RosieOh&fontSize=40&fontAlign=80&fontAlignY=40&color=gradient)
-
-
-
-<!-- <img width="100%" src="https://user-images.githubusercontent.com/80378085/150538122-d0c8472f-4b8c-4544-a35c-27c398234308.gif"/> -->
+<br></br>
 
 <h2>💡 About Me!  </h2>
 
-<h4 align=center>🖐 데이터를 기반으로 더 나은 서비스를 개발하기 위해 노력하는 주니어 개발자입니다 </b>.  <br></br></h4>
-<h4 align=center> 생각했던 모든 아이디어, 사회 이슈를 제가 가진 개발 역량을 활용해 구현하고 해결하고자 합니다.</h4>
+<h>🖐 데이터를 기반으로 더 나은 서비스를 도출하는 꿈꾸는 오태훈 입니다 </b>.  <br></br></h>
 
-<!--
 <h2>🎓 Experience & Social Activity</h2>
- 
+
 |소속 및 단체|활동 기간|내용|
 |---|---|---|
 |OO대학교|17.03~24.02  | OO대학교 린튼글로벌스쿨 글로벌비즈니스학과 / 빅데이터전공 재학
@@ -25,103 +20,65 @@
 |한이음 멘토링|23.05 ~ 23.11| 2023 한이음 멘토링 한국IBM 연계 "Generative AI를 활용한 교육서비스 개발" 팀장 / BackEnd |
 |멋쟁이사자처럼 11기|23.02 ~23.12| 2023 멋쟁이사자처럼 11기 OO대학교 대표 / 백엔드 운영 총괄|
 |APCS Forum|17.06 ~| Delegate of 2017 APCS(Asia Pacific Cities Summit & Mayors' Forum)|
--->
-  
 
-<br/>  
 
-<div align=center><h1>📚 STACKS</h1></div>
 
-<div align=center> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/R-00599C?style=for-the-badge&logo=R&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <br>
-  
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
-  <img src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angularjs&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <br>
+<h2>💻 Projects</h3>
 
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-  <br>
-</div>
-
-<br/>
-
-<!--<div align=center><h1>📚 Velog Post</h1></div>
-
-<div align="center"> 
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dhxogns920&color=dark)](https://github.com/eungyeole/velog-readme-stats)
-</div> -->
-
-<br/>
-
-<!-- 배경화면 트로피 설정 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=RosieOh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br>
-
-<div align=center><h1>📚 GitHub Stats </h1></div> 
-
-<div align=center>
-	<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosieOh&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosieOh&layout=compact">-->
-<img src="https://github-readme-stats.vercel.app/api?username=RosieOh&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-
- <!--
-![Rosie's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=RosieOh&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff")
+<!--
+| 기간 | 내용 |
+| --- | --- |
+| 2022.12 ~ | 건강한 팀 문화를 위한 팀 해피니스 체크 서비스 '<a href="https://github.com/Antititi-time/T.TIME_CLIENT">T.Time</a>' Frontend 개발 |
+| 2023.01 ~ 2023.06 | 노인 건강 관리/관제 AI 복지사 서비스 '<a href="https://github.com/hayounSong/Boksiri">복실이</a>' Frontend 개발 |
+| 2022.06 ~ 2022.09 | 제로웨이스터들을 위한 플랫폼 서비스 <a href="https://github.com/hayounSong/Bzero">Bzero</a> 팀장 및 Frontend 개발 |
+| 2022.11 ~ 2022.11 | 전통시장을 위한 간편 명함 제작 및 홈페이지 제작 서비스 '<a href="https://github.com/hayounSong/GotoMarket">시장에가면</a>' Frontend 개발 |
+| 2022.07 ~ 2022.09 | 오직 독립 영화만을 위한 플랫폼 서비스, <a href="https://github.com/hayounSong/NoOwnerTheater">주인 없는 영화관 </a> 팀장 및 Web 개발 |
+| 2022.07 ~ 2022.12 | 정당한 노동을 위한 외국인 노동자 법률 서비스, <a href="https://github.com/sopkathon-32nd-10/Server">IgoBoss</a> Backend 개발 |
 -->
 
-<br />
-<br />
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<h2>🎖️ Awards/Certificates</h2>
+
+<d>🥇 기록중 </d>
+<br/>
+
+<d>🥇 기록중 </d>
+<br/>
+
+<d>🥇 기록중 </d>
 
 <br/>
-<br/>
-<h1>🏆 Baekjoon solved rank 🏆</h1>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhxogns920)](https://solved.ac/dhxogns920)
+<d></d>
+
+<h2>👨‍💻 Tech Skills!  </h2>
+<h3> 📲 Frontend </h3>
+<div>
+<img alt="RED" src ="https://img.shields.io/badge/REACT-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/VUE-6DB33F.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/TYPESCRIPT-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white">
+<img alt="RED" src ="https://img.shields.io/badge/Redux,Recoil-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
 </div>
-<br>
 
-<br>
-
-<div align=center><h1>📚 Connect with me </h1></div>
-
-<div align="center">
+<h3>⚒ Backend </h3>
+<div>
+<img alt="RED" src ="https://img.shields.io/badge/JAVA-004027.svg?&style=for-the-badge&logo=Jameson&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/SPRING-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/SPRING BOOT-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/SPRING Cloud-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/Redis-6DB33F.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/Python-blue.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
+  
+</div>
+<h2>📝 Tools and SNS </h2>
+<div>
 <a href="https://github.com/https://github.com/RosieOh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -136,11 +93,12 @@
 </a>
 <a href="https://instagram.com/https://www.instagram.com/ml_rosieoh/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-<br/>  
 
-  <div align="center"> 
-  
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=90)
 </div>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosieOh&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosieOh&layout=compact">-->
+<img src="https://github-readme-stats.vercel.app/api?username=RosieOh&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=90)
