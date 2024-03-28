@@ -14,6 +14,8 @@
 |(주)에코바이오의학연구소|22.03 ~ 22.06| (주)에코바이오의학연구소 자사 브랜드 HeadSpaK 취업연계근로장학생 BackEnd 개발|
 |(주)웅진북센|21.01 ~ 21.04| (주)웅진북센 디지털 전자책 혁신아이디어 공모전 - 전자책 대여 어플리케이션 "팀_신기루" 팀장 / BackEnd|
 |데이터청년캠퍼스|22.06 ~ 22.09| 2022 데이터청년캠퍼스 - OO대학교 "WakeForCargo" 팀장 / BackEnd, MLOps |
+|대덕구청|22.08 ~ 22.09|2022 대덕구 리빙랩 프로젝트 "ECO_TVY" / 지역 내 쓰레기 분류 기반 객체 인식 모델 플랫폼 "ECO_TVY" FullStack, MLOps 개발|
+|대덕구청|21.03 ~ 21.12|2022 대덕구 청년 네트워크 데이터 분석(취, 창업 분야) 총괄 / MLOps|
 |멘도롱대학|21.05 ~ 21.12| 2022 예비창업패키지 창업팀 "청춘의 한 장" / 전문가 추천 기반 대학생 교육 멘토링 추천 플랫폼 "멘도롱 대학" 기획 / BackEnd 개발 |
 |TeamLimked|22.03 ~ 22.12| 2022 초기창업패키지 창업팀 "TeamLimked" / 아이템 추천 기반 건강기능식품 추천 플랫폼 "MediRing" 팀장 / BackEnd 개발 |
 |Weebinder|23.04 ~ 23.12| 2023 초기창업패키지 창업팀 Weebinder / 일상 루틴 추천 플랫폼 "DayMaker" 개발팀 팀장 / BackEnd 개발 |
@@ -24,11 +26,10 @@
 
 
 <h2>💻 Projects</h3>
-
 <!--
 | 기간 | 내용 |
 | --- | --- |
-| 2022.12 ~ | 건강한 팀 문화를 위한 팀 해피니스 체크 서비스 '<a href="https://github.com/Antititi-time/T.TIME_CLIENT">T.Time</a>' Frontend 개발 |
+| 2024.03 ~ | 개발 외부 동아리 사용자 기반 ERP 시스템 개발 FullStack 개발 |
 | 2023.01 ~ 2023.06 | 노인 건강 관리/관제 AI 복지사 서비스 '<a href="https://github.com/hayounSong/Boksiri">복실이</a>' Frontend 개발 |
 | 2022.06 ~ 2022.09 | 제로웨이스터들을 위한 플랫폼 서비스 <a href="https://github.com/hayounSong/Bzero">Bzero</a> 팀장 및 Frontend 개발 |
 | 2022.11 ~ 2022.11 | 전통시장을 위한 간편 명함 제작 및 홈페이지 제작 서비스 '<a href="https://github.com/hayounSong/GotoMarket">시장에가면</a>' Frontend 개발 |
