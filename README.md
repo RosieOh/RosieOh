@@ -60,6 +60,7 @@ console.log("#Frontend #Backend #Infra");
 
 </details>
 
+<br>
 
 <h2>🎓 Social Activity </h2> 
 
