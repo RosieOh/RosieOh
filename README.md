@@ -10,21 +10,10 @@
 
 
 ```javascript
-const express = require('express');
-const app = express();
-const port = 3000;
-
-const logRouter = require('./routes/log');
-app.use('/log', logRouter);
-
-app.listen(port, () => {
-  console.log(`Server is running on http://localhost:${port}`);
-});
-
-exports.printLog = (req, res) => {
+export default function (req, res, next) {
   console.log("#Frontend #Backend #Infra");
-  res.send("Log printed to console.");
-};
+  next();
+}
 ```
 
  <img src="https://skillicons.dev/icons?i=js,ts,jquery,react,nextjs,vue,styledcomponents,tailwind,sass,threejs&perline="/><br/>
