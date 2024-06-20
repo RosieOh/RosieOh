@@ -14,7 +14,7 @@ console.log("#Frontend #Backend #Infra");
 ```
 
  <img src="https://skillicons.dev/icons?i=js,ts,jquery,react,nextjs,vue,styledcomponents,tailwind,sass,threejs&perline="/><br/>
- <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,nodejs,express,django,flask,fastapi,php,grafana,prometheus,&titles=true"/><br/>
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,nodejs,express,nestjs,nuxtjs,django,flask,fastapi,php,grafana,prometheus,&titles=true"/><br/>
  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,kubernetes,docker,aws,dynamodb,ubuntu,linux,titles=true"/>
 
 <br>
