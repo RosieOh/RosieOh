@@ -91,6 +91,10 @@ export default function (req, res, next) {
 
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=RosieOh&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=30,e96443,904e95&theme=dark&hide_border=false&username=rosieoh" height="150" alt="languages graph"  />
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
 
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=90)
 </div>
