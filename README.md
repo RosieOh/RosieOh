@@ -10,9 +10,12 @@
 
 
 ```javascript
-export default function (req, res, next) {
-  console.log("#Frontend #Backend #Infra");
-  next();
+@Injectable()
+export class LoggerMiddleware implements NestMiddleware {
+  use(req: Request, res: Response, next: NextFunction) {
+    console.log('#Frontend #Backend #Infra');
+    next();
+  }
 }
 ```
 
