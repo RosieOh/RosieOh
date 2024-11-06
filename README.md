@@ -29,6 +29,7 @@ export class LoggerMiddleware implements NestMiddleware {
 
 <details>
   <summary>이 토글을 열어 확인해보세요 :)</summary>
+  <br/>
 
 |기간|내용|도메인|역할|
 |---|---|---|---|
@@ -65,6 +66,7 @@ export class LoggerMiddleware implements NestMiddleware {
 
 <details>
   <summary>이 토글을 열어 확인해보세요 :)</summary>
+  <br/>
 
 
 
@@ -85,7 +87,7 @@ export class LoggerMiddleware implements NestMiddleware {
 
 <details>
   <summary>이 토글을 열어 확인해보세요 :)</summary>
-
+  <br/>
 
 
 |소속 및 단체|활동 기간|내용|
