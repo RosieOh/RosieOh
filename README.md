@@ -32,9 +32,10 @@ export class LoggerMiddleware implements NestMiddleware {
 
 |기간|내용|도메인|역할|
 |---|---|---|---|
+|2024.07 ~ 진행중| (주)영천정밀 MES 시스템 고도화 프로젝트 - 공정 계획 관리 개발|<a href="https://yc-mes.tomes.co.kr/">(주)영천정밀 MES 시스템</a>| 풀스택 개발 | 
 |2024.07 ~ 진행중| (주)에이원손해사정 차세대 손해사정시스템 구축|<a href="#">사내 내부 보안으로 인한 링크 첨부 불가</a>| 풀스택 개발 | 
 |2024.06 ~ 진행중| (주)NIDSOFT 메일 솔루션 구축|<a href="#">사내 내부 보안으로 인한 링크 첨부 불가</a>| 프론트엔드 개발 | 
-|2024.06 ~ 2024.09| (주)SMD 시스템 차세대 클라우드 시스템 ToMes SaaS 플랫폼 구축|<a href="#">사내 내부 보안으로 인한 링크 첨부 불가</a>| 풀스택 개발/DevOps | 
+|2024.06 ~ 2024.09| (주)SMD 시스템 차세대 클라우드 시스템 ToMes SaaS 플랫폼 구축|<a href="http://smd.tomes.co.kr/">(주)SMD 시스템 MES 포털</a>| 풀스택 개발/DevOps | 
 |2024.04 ~ 2024.06| (주)천재교육 디지털사업본부 디지털러닝팀 천재IT교육센터 통합관리시스템 구축|<a href="http://chunjae-it-edu.com/">천재IT교육센터 통합관리시스템 구축</a>| 백엔드 개발/DevOps | 
 |2024.02 ~ 2024.03| (주)천재교육 디지털사업본부 디지털러닝팀 천재IT교육센터 랜딩페이지 구축|<a href="http://chunjae-learning.com">천재IT교육센터</a>| 백엔드 개발/DevOps |
 |2023.06 ~ 2023.07| 노인 교육 격차 해소 웹 플랫폼 |<a href="elderlinker.vercel.app/">ElderLinker</a>| 풀스택 개발 | 
