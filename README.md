@@ -31,6 +31,9 @@ export class LoggerMiddleware implements NestMiddleware {
   <summary>이 토글을 열어 확인해보세요 :)</summary>
   <br/>
 
+<h2> 💻 회사에서 진행한 프로젝트들!! :) </h2> 
+
+
 |기간|내용|도메인|역할|
 |---|---|---|---|
 |24.10 ~ 24.12| (주)영천정밀 MES 시스템 고도화 프로젝트 - 공정 계획 관리 개발|<a href="https://yc-mes.tomes.co.kr/">(주)영천정밀 MES 시스템</a>| 풀스택 개발 | 
@@ -43,6 +46,8 @@ export class LoggerMiddleware implements NestMiddleware {
 <br/>
 <hr/>
 <br/>
+
+<h2> 💻 대외적으로 진행한 프로젝트들!! :) </h2> 
 
 |기간|내용|도메인|역할|
 |---|---|---|---|
