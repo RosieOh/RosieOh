@@ -36,7 +36,7 @@ export class LoggerMiddleware implements NestMiddleware {
 
 |기간|내용|도메인|역할|
 |---|---|---|---|
-|24.10 ~ 24.12| (주)영천정밀 MES 시스템 고도화 프로젝트 - 공정 계획 관리 개발|<a href="https://yc-mes.tomes.co.kr/">(주)영천정밀 MES 시스템</a>| 풀스택 개발 | 
+|24.10 ~ 24.12| (주)영천정밀 MES 시스템 고도화 프로젝트 - 공정 계획 관리 개발|<a href="https://ycheon.tomes.co.kr/">(주)영천정밀 MES 시스템</a>| 풀스택 개발 | 
 |24.07 ~ 25.05| (주)에이원손해사정 차세대 손해사정시스템 구축|<a href="#">사내 내부 보안으로 인한 링크 첨부 불가</a>| 풀스택 개발 | 
 |24.06 ~ 진행중| (주)NIDSOFT 메일 솔루션 구축|<a href="#">사내 내부 보안으로 인한 링크 첨부 불가</a>| 프론트엔드 개발 | 
 |24.06 ~ 24.09| (주)SMD 시스템 차세대 클라우드 시스템 ToMes SaaS 플랫폼 구축|<a href="http://smd.tomes.co.kr/">(주)SMD 시스템 MES 포털</a>| 풀스택 개발/DevOps | 
@@ -51,8 +51,8 @@ export class LoggerMiddleware implements NestMiddleware {
 
 |기간|내용|도메인|역할|
 |---|---|---|---|
-|24.10 ~ 24.12| 모두의 카페 리뷰를 담다, 카페오브라이프, 카오라 |<a href="/">카오라</a>| 풀스택 개발 | 
-|24.10 ~ 24.11| 프로미스나인 최애의 플로버 랜딩 페이지, FromHabit |<a href="/">FromHabit</a>| 프론트엔드 개발 | 
+|24.10 ~ 24.12| 모두의 카페 리뷰를 담다, 카페오브라이프, 카오라 |<a href="/">카오라</a>| 풀스택 개발 | 
+|24.10 ~ 24.11| 프로미스나인 최애의 플로버 랜딩 페이지, FromHabit |<a href="/">FromHabit</a>| 프론트엔드 개발 | 
 |24.09 ~ 25.01| 모두의 자취방 양도 플랫폼, 모양 |<a href="/">Moyang</a>| 백엔드 / 백오피스 개발| 
 |23.06 ~ 23.07| 노인 교육 격차 해소 웹 플랫폼 |<a href="elderlinker.vercel.app/">ElderLinker</a>| 풀스택 개발 | 
 |23.08 ~ 23.08| 북스토어 기반 구매 웹 사이트 |<a href="/">MoreVisionBooks</a>| 백엔드 개발 | 
