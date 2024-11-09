@@ -19,9 +19,10 @@ export class LoggerMiddleware implements NestMiddleware {
 }
 ```
 
- <img src="https://skillicons.dev/icons?i=js,ts,jquery,react,nextjs,vue,styledcomponents,tailwind,sass,threejs&perline="/><br/>
+ <img src="https://skillicons.dev/icons?i=js,ts,jquery,react,nextjs,vue,styledcomponents,tailwind,sass,threejs,svelte&perline="/><br/>
  <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,nodejs,express,nestjs,nuxtjs,django,flask,fastapi,php,grafana,prometheus,&titles=true"/><br/>
- <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,kubernetes,docker,aws,dynamodb,ubuntu,linux,titles=true"/>
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,kubernetes,docker,aws,dynamodb,ubuntu,linux,kafka,redis,titles=true"/><br/>
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,firebase,kotlin,titles=true"/>
 
 <br>
 
