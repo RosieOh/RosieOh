@@ -43,6 +43,9 @@ export class LoggerMiddleware implements NestMiddleware {
 |24.06 ~ 24.09| (주)SMD 시스템 차세대 클라우드 시스템 ToMes SaaS 플랫폼 구축|<a href="http://smd.tomes.co.kr/">(주)SMD 시스템 MES 포털</a>| 풀스택 개발/DevOps | 
 |24.04 ~ 24.06| (주)천재교육 디지털사업본부 디지털러닝팀 천재IT교육센터 통합관리시스템 구축|<a href="http://chunjae-it-edu.com/">천재IT교육센터 통합관리시스템 구축</a>| 백엔드 개발/DevOps | 
 |24.02 ~ 24.03| (주)천재교육 디지털사업본부 디지털러닝팀 천재IT교육센터 랜딩페이지 구축|<a href="http://chunjae-learning.com">천재IT교육센터</a>| 백엔드 개발/DevOps |
+|22.10 ~ 23.12| (주)유진바이오텍 자사 연구 산업 밀배아 웹사이트 제작 |<a href="https://eugene-biotech.com/bbs/content.php?co_id=con_bn_2">유진바이오텍</a>| 프론트엔드 개발 | 
+|22.04 ~ 22.09| (주)에코바이오의학연구소 자사 브랜딩 HeadSpaK 웹사이트 제작 |<a href="http://headspak.com/">헤드스파K</a>| 풀스택 개발 | 
+|21.12 ~ 22.03| (주)다른코리아 자사 크라우드 펀딩 시스템 다른펀딩 펀딩 시스템 프론트엔드 |<a href="/">다른펀딩</a>| 프론트엔드 개발 | 
 
 <br/>
 <hr/>
@@ -62,7 +65,6 @@ export class LoggerMiddleware implements NestMiddleware {
 |23.04 ~ 23.06| 5개 대륙 여행 코스 데이터 기반 여행 상품 구매 플랫폼 |<a href="/">TravelGURU</a>| 프론트엔드 개발 | 
 |23.04 ~ 23.06| 서울특별시 내 4개 구별 주택 가격 데이터 분석 웹 대시보드 |<a href="/">LeeEung</a>| 백엔드/MLOps | 
 |22.07 ~ 22.09| 화물차 운전자 동체 인식 기반 객체 인식 애플리케이션 | <a href="/">WakeForCargo</a>| 백엔드/MLOps | 
-|22.04 ~ 22.09| (주) 에코바이오의학연구소 자사 브랜딩 HeadSpaK 웹사이트 제작 |<a href="http://headspak.com/">헤드스파K</a>| 풀스택 개발 | 
 
 
 </details>
