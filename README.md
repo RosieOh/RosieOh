@@ -56,7 +56,7 @@ export class LoggerMiddleware implements NestMiddleware {
 |기간|내용|도메인|역할|
 |---|---|---|---|
 |24.11 ~ 25.02| 통합 비즈니스 솔루션, SteamlineX |<a href="/">SteamlineX</a>| 풀스택 개발 / MLOps | 
-|24.10 ~ 24.12| 모두의 카페 리뷰를 담다, 카페오브라이프, 카오라 |<a href="/">카오라</a>| 풀스택 개발 | 
+|25.01 ~ 25.02| 나만의 최애와 소통하기! From. |<a href="/">From.</a>| 풀스택 개발 | 
 |24.10 ~ 24.11| 프로미스나인 최애의 플로버 랜딩 페이지, FromHabit |<a href="/">FromHabit</a>| 프론트엔드 개발 | 
 |24.09 ~ 25.01| 모두의 자취방 양도 플랫폼, 모양 |<a href="/">Moyang</a>| 백엔드 / 백오피스 개발| 
 |23.06 ~ 23.07| 노인 교육 격차 해소 웹 플랫폼 |<a href="elderlinker.vercel.app/">ElderLinker</a>| 풀스택 개발 | 
