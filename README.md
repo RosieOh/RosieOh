@@ -37,7 +37,8 @@ export class LoggerMiddleware implements NestMiddleware {
 
 |기간|내용|도메인|역할|
 |---|---|---|---|
-|25.02 ~ 25.04| (주)제이이티 MES 시스템 고도화 프로젝트 - |<a href="https://jet.tomes.co.kr/">진행 중</a>| 풀스택 개발 | 
+|25.05 ~ | IKEA / SEDO 베트남 지사 ERP 시스템 SPI 기반 주문량 예측 모델 구축 |<a href="/">진행중</a>| MLOps / 백엔드 개발 | 
+|25.02 ~ 25.04| (주)제이이티 MES 시스템 구축 프로젝트 - |<a href="https://jet.tomes.co.kr/">(주)제이이티 MES 시스템</a>| 풀스택 개발 | 
 |24.10 ~ 24.12| (주)영천정밀 MES 시스템 고도화 프로젝트 - 공정 계획 관리 및 보유소재관리 개발 / MCT장비 소켓 파일 전송 기능 개발 |<a href="https://ycheon.tomes.co.kr/">(주)영천정밀 MES 시스템</a>| 풀스택 개발 | 
 |24.07 ~ 25.05| (주)에이원손해사정 차세대 손해사정시스템 모니터링 시스템 개발 |<a href="#">사내 내부 보안으로 인한 링크 첨부 불가</a>| 풀스택 개발 | 
 |24.06 ~ 진행중| (주)NIDSOFT 메일 솔루션 구축 |<a href="#">사내 내부 보안으로 인한 링크 첨부 불가</a>| 프론트엔드 개발 | 
@@ -56,6 +57,7 @@ export class LoggerMiddleware implements NestMiddleware {
 
 |기간|내용|도메인|역할|
 |---|---|---|---|
+|25.04 ~ 25.04| 2025 광진구 빅데이터 분석 공모전, 팀 정이가요 |<a href="/">진행중</a>| MLOps | 
 |24.11 ~ 25.02| 통합 비즈니스 솔루션, SteamlineX |<a href="/">SteamlineX</a>| 풀스택 개발 / MLOps | 
 |25.01 ~ 25.02| 나만의 최애와 소통하기! From. |<a href="/">From.</a>| 풀스택 개발 | 
 |24.10 ~ 24.11| 프로미스나인 최애의 플로버 랜딩 페이지, FromHabit |<a href="/">FromHabit</a>| 프론트엔드 개발 | 
