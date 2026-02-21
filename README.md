@@ -37,7 +37,10 @@ export class LoggerMiddleware implements NestMiddleware {
 
 |기간|내용|도메인|역할|
 |---|---|---|---|
-|25.06 ~ 25.10| IKEA(주) / (주)SEDO In House MES 생산 관리 시스템 구축 |<a href="http://43.200.193.4/index.html">(주)SEDO IHMES 시스템</a>| DevOps / 백엔드 개발 | 
+|26.01 ~ 26.03| (주)아워스토리 중,고교 대상 진로 취업 역량 강화 플랫폼, OurStoryG | |<a href="https://jet.tomes.co.kr/">OurStoryG | DevOps / 벡엔드 개발 / 프로젝트 총괄|
+|25.11 ~ 26.01| (주)HyperWise AI 리터러시 역량 강화 교육 민간 자격증 ACI/AES 평가 플랫폼, SandWitch | |<a href="https://jet.tomes.co.kr/">SandWitch | LLMOps / 벡엔드 개발 |
+|25.10 ~ 25.12| (주)HyperWise 시네마틱 AI 기반 기초 프로그래밍 역량 강화 플랫폼, CinemAX | |<a href="https://jet.tomes.co.kr/">CinemAX | DevOps / 벡엔드 개발 |
+|25.06 ~ 25.09| IKEA(주) / (주)SEDO In House MES 생산 관리 시스템 구축 |<a href="http://43.200.193.4/index.html">(주)SEDO IHMES 시스템</a>| DevOps / 백엔드 개발 | 
 |25.05 ~ 25.06| IKEA(주) / (주)SEDO 베트남 지사 ERP 시스템 SPI 기반 주문량 예측 모델 구축 |<a href="/">링크 참조</a>| MLOps / 백엔드 개발 | 
 |25.02 ~ 25.04| (주)제이이티 MES 시스템 구축 프로젝트 |<a href="https://jet.tomes.co.kr/">(주)제이이티 MES 시스템</a>| 풀스택 개발 | 
 |24.10 ~ 24.12| (주)영천정밀 MES 시스템 고도화 프로젝트 - 공정 계획 관리 및 보유소재관리 개발 / MCT장비 소켓 파일 전송 기능 개발 |<a href="https://ycheon.tomes.co.kr/">(주)영천정밀 MES 시스템</a>| 풀스택 개발 | 
@@ -59,13 +62,12 @@ export class LoggerMiddleware implements NestMiddleware {
 |기간|내용|도메인|역할|
 |---|---|---|---|
 |25.07 ~ 25.08| 2025 K-Digital 해커톤 경진대회 - 유휴부지 빈집 공간 찾아주는 서비스, 따숨 |<a href="/">진행중</a>| 기획/백엔드 | 
-|25.06 ~ 25.08| 2025 오픈소스 개발자 경진대회, 맘편한 CareCode 팀장 |<a href="/">진행중</a>| 기획/MLOps/백엔드 | 
-|25.05 ~ 25.09| 2025 카카오X한국관광공사 관광데이터 활용 경진대회 - 한국 드라마 속 여행지 추천 플랫폼, TripCut(트립컷) |<a href="/">진행중</a>| 기획/MLOps/백엔드 | 
-|25.04 ~ 25.04| 2025 광진구 빅데이터 분석 공모전, 팀 정이가요 |<a href="/">입선</a>| MLOps | 
-|24.11 ~ 25.02| 통합 비즈니스 솔루션, SteamlineX |<a href="/">SteamlineX</a>| 풀스택 개발 / MLOps | 
+|25.06 ~ 25.08| 2025 오픈소스 개발자 경진대회, 맘편한 CareCode 팀장 |<a href="/">CareCode</a>| 기획/MLOps/백엔드 | 
+|25.05 ~ 25.09| 2025 카카오X한국관광공사 관광데이터 활용 경진대회 - 한국 드라마 속 여행지 추천 플랫폼, TripCut(트립컷) |<a href="/">TripCut</a>| 기획/백엔드 | 
+|25.04 ~ 25.04| 2025 광진구 빅데이터 분석 공모전, 팀 정이가요 |<a href="/">입선</a>| MLOps / 백엔드 개발 | 
+|24.11 ~ 25.02| 통합 비즈니스 솔루션, SteamlineX |<a href="/">SteamlineX</a>| 풀스택 개발 | 
 |25.01 ~ 25.02| 나만의 최애와 소통하기! From. |<a href="/">From.</a>| 풀스택 개발 | 
-|24.10 ~ 24.11| 프로미스나인 최애의 플로버 랜딩 페이지, FromHabit |<a href="/">FromHabit</a>| 프론트엔드 개발 | 
-|24.09 ~ 25.01| 모두의 자취방 양도 플랫폼, 모양 |<a href="/">Moyang</a>| 백엔드 / 백오피스 개발| 
+|24.09 ~ 25.01| 모두의 자취방 양도 플랫폼, 모양 |<a href="/">Moyang</a>| 백엔드 / 인프라 | 
 |23.06 ~ 23.07| 노인 교육 격차 해소 웹 플랫폼 |<a href="elderlinker.vercel.app/">ElderLinker</a>| 풀스택 개발 | 
 |23.08 ~ 23.08| 북스토어 기반 구매 웹 사이트 |<a href="/">MoreVisionBooks</a>| 백엔드 개발 | 
 |23.07 ~ 23.08| 학생, 학부모 가상 교육 기업 웹 사이트 |<a href="/">CanMoreVision</a>| 백엔드 개발 | 
