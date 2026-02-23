@@ -2,7 +2,7 @@
 
 <div align="left">
 <h2>🖐🏻 About Me </h2>
-<h>🖐 데이터를 기반으로 더 나은 서비스를 도출하는 백엔드 개발자 오태훈 입니다. </b>  <br></br></h>
+<h>🖐 운영환경에서 검증된 검증된 DevOps Engineer 오태훈입니다! </b>  <br></br></h>
   
 [![Notion Badge](https://img.shields.io/badge/Notion-Rosie's%20Portfolio-white?style=flat-square&logo=Notion)](https://dhxogns920.notion.site/1-7a684d395f6b44c38da92d7ed6c1de11?pvs=4)[![Instagram Badge](https://img.shields.io/badge/Instagram-@cammoreapdalisal%20-white?style=flat-square&logo=Instagram&logoColor=Whitepurple)](https://instagram.com/cammoreapdalisal)
 <br/>
