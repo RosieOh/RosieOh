@@ -37,6 +37,7 @@ export class LoggerMiddleware implements NestMiddleware {
 
 |기간|내용|도메인|역할|
 |---|---|---|---|
+|26.03 ~ 26.03| (주)HyperWise 사내 테크 블로그 서비스 |<a href="http://221.148.101.200:8085/">The Logic|DevOps|
 |26.03 ~ 26.05| (주)HyperWise 서일대학교 AI/DX센터 차세대 AI 기반 역량 강화 플랫폼, Wings V2 |<a href="https://iwings.co.kr">Wings|DevOps / 벡엔드 개발 / 프로젝트 총괄|
 |26.01 ~ 26.03| (주)아워스토리 중,고교 대상 진로 취업 역량 강화 플랫폼, OurStoryG | |<a href="https://jet.tomes.co.kr/">OurStoryG | DevOps / 벡엔드 개발 / 프로젝트 총괄|
 |25.11 ~ 26.01| (주)HyperWise AI 리터러시 역량 강화 교육 민간 자격증 ACI/AES 평가 플랫폼, SandWitch | |<a href="https://jet.tomes.co.kr/">SandWitch | LLMOps / 벡엔드 개발 |
