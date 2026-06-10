@@ -37,11 +37,12 @@ export class LoggerMiddleware implements NestMiddleware {
 
 |기간|내용|도메인|역할|
 |---|---|---|---|
+|26.03 ~ 26.03| (주)HyperWise 서원대학교 창업교육 플랫폼 |<a href="http://221.148.101.200:8085/">SeoWon StartUP | 백엔드 / 프론트엔드 |
 |26.03 ~ 26.03| (주)HyperWise 사내 테크 블로그 서비스 |<a href="http://221.148.101.200:8085/">The Logic|DevOps|
-|26.03 ~ 26.05| (주)HyperWise 서일대학교 AI/DX센터 차세대 AI 기반 역량 강화 플랫폼, Wings V2 |<a href="https://iwings.co.kr">Wings|DevOps / 벡엔드 개발 / 프로젝트 총괄|
-|26.01 ~ 26.03| (주)아워스토리 중,고교 대상 진로 취업 역량 강화 플랫폼, OurStoryG | |<a href="https://jet.tomes.co.kr/">OurStoryG | DevOps / 벡엔드 개발 / 프로젝트 총괄|
-|25.11 ~ 26.01| (주)HyperWise AI 리터러시 역량 강화 교육 민간 자격증 ACI/AES 평가 플랫폼, SandWitch | |<a href="https://jet.tomes.co.kr/">SandWitch | LLMOps / 벡엔드 개발 |
-|25.10 ~ 25.12| (주)HyperWise 시네마틱 AI 기반 기초 프로그래밍 역량 강화 플랫폼, CinemAX | |<a href="https://jet.tomes.co.kr/">CinemAX | DevOps / 벡엔드 개발 |
+|26.03 ~ 26.05| (주)HyperWise 서일대학교 차세대 AI 기반 역량 강화 플랫폼, Wings V2 |<a href="https://iwings.co.kr">Wings|DevOps / 백엔드 개발 / 프로젝트 총괄|
+|26.01 ~ 26.03| (주)아워스토리 중,고교 대상 진로 취업 역량 강화 플랫폼, OurStoryG | |<a href="https://www.ourstoryg.ai.kr">OurStoryG | DevOps / 백엔드 개발 / 프로젝트 총괄|
+|25.11 ~ 26.01| (주)HyperWise AI 리터러시 역량 강화 교육 민간 자격증 ACI/AES 평가 플랫폼, Almighty | |<a href="https://www.almighty.ai.kr">Almighty | LLMOps / 백엔드 개발 |
+|25.10 ~ 25.12| (주)HyperWise 시네마틱 AI 기반 기초 프로그래밍 역량 강화 플랫폼, CinemAX | |<a href="https://www.ourstoryg.ai.kr">CinemAX | DevOps / 백엔드 개발 |
 |25.06 ~ 25.09| IKEA(주) / (주)SEDO In House MES 생산 관리 시스템 구축 |<a href="http://43.200.193.4/index.html">(주)SEDO IHMES 시스템</a>| DevOps / 백엔드 개발 | 
 |25.05 ~ 25.06| IKEA(주) / (주)SEDO 베트남 지사 ERP 시스템 SPI 기반 주문량 예측 모델 구축 |<a href="/">링크 참조</a>| MLOps / 백엔드 개발 | 
 |25.02 ~ 25.04| (주)제이이티 MES 시스템 구축 프로젝트 |<a href="https://jet.tomes.co.kr/">(주)제이이티 MES 시스템</a>| 풀스택 개발 | 
@@ -93,7 +94,8 @@ export class LoggerMiddleware implements NestMiddleware {
 |소속 및 단체|활동 기간|내용|
 |---|---|---|
 |OO대학교|17.03~ | OO대학교 린튼글로벌스쿨 글로벌비즈니스학과 / 빅데이터전공 졸업|
-|(주)하이퍼와이즈|25.10 ~ 26.05| (주)하이퍼와이즈 개발팀 - 백엔드 개발자 / 연구원|
+|(주)사운드마인드|26.06~ 현재 | (주)사운드마인드 사업본부 WX팀 - 백엔드 개발자 / 매니저|
+|(주)하이퍼와이즈|25.10 ~ 26.05| (주)하이퍼와이즈 플랫폼운영팀 - 백엔드 개발자 / 연구원|
 |NIDSOFT(주)|24.06 ~ 25.09| (주)NIDSoft 시스템 사업부 - 스마트팩토리 시스템 풀스택 개발자|
 |(주)천재교육|23.09 ~ 24.05| (주)천재교육 디지털사업본부 디지털러닝팀 백엔드/DevOps|
 |(주)유진바이오텍|22.06 ~ 22.09| (주)유진바이오텍 개발팀 FrontEnd 개발|
