@@ -26,6 +26,16 @@ export class LoggerMiddleware implements NestMiddleware {
 
 <br>
 
+<h2>🌱 Open Source </h2>
+
+|기간|프로젝트|기여|결과|상태|
+|---|---|---|---|---|
+|26.09| <a href="https://github.com/BerriAI/litellm">LiteLLM</a> (★59k, AI Gateway) | <a href="https://github.com/BerriAI/litellm/pull/42450">#42450</a> 라우터가 fallback 전에 재시도 백오프를 기다리는 버그 수정 | provider 장애 시 fallback 응답 중앙값 5.5초 → 0.8초 | 리뷰 중 |
+
+직접 만든 Kubernetes 운영 플랫폼 <a href="https://github.com/RosieOh/RoundHouse">RoundHouse</a>에서 장애 주입 실험으로 찾은 문제입니다. 발견부터 원인 추적, 검증, 리뷰 대응까지의 과정은 <a href="https://github.com/RosieOh/RoundHouse/blob/main/docs/case-study-litellm-router.md">케이스 스터디</a>에 정리했습니다.
+
+<br>
+
 <h2> 💻 Projects </h2> 
 
 <details>
@@ -64,6 +74,7 @@ export class LoggerMiddleware implements NestMiddleware {
 
 |기간|내용|도메인|역할|
 |---|---|---|---|
+|26.09 ~ 진행중| LiteLLM AI Gateway를 Kubernetes에서 운영 수준으로 돌리는 레퍼런스 플랫폼, RoundHouse |<a href="https://github.com/RosieOh/RoundHouse">RoundHouse</a>| LLMOps / DevOps | 
 |25.07 ~ 25.08| 2025 K-Digital 해커톤 경진대회 - 유휴부지 빈집 공간 찾아주는 서비스, 따숨 |<a href="/">진행중</a>| 기획/백엔드 | 
 |25.06 ~ 25.08| 2025 오픈소스 개발자 경진대회, 맘편한 CareCode 팀장 |<a href="/">CareCode</a>| 기획/MLOps/백엔드 | 
 |25.05 ~ 25.09| 2025 카카오X한국관광공사 관광데이터 활용 경진대회 - 한국 드라마 속 여행지 추천 플랫폼, TripCut(트립컷) |<a href="/">TripCut</a>| 기획/백엔드 | 
