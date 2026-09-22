@@ -31,8 +31,9 @@ export class LoggerMiddleware implements NestMiddleware {
 |기간|프로젝트|기여|결과|상태|
 |---|---|---|---|---|
 |26.09| <a href="https://github.com/BerriAI/litellm">LiteLLM</a> (★59k, AI Gateway) | <a href="https://github.com/BerriAI/litellm/pull/42450">#42450</a> 라우터가 fallback 전에 재시도 백오프를 기다리는 버그 수정 | provider 장애 시 fallback 응답 중앙값 5.5초 → 0.8초 | 리뷰 중 |
+|26.09| <a href="https://github.com/milvus-io/milvus">Milvus</a> (★46k, Vector DB) | <a href="https://github.com/milvus-io/milvus/pull/53431#issuecomment-5694250402">#53431 리뷰</a> 설치 문서가 내려받게 하는 v3.0.1 릴리스 첨부 compose 파일이 저장소 파일과 다른 MinIO 태그를 쓰는 문제를 근거와 함께 지적 (diff로는 보이지 않는 부분) | PR 작성자가 문제를 확인하고 후속 이슈로 분리하기로 함 | PR 진행 중 |
 
-직접 만든 Kubernetes 운영 플랫폼 <a href="https://github.com/RosieOh/RoundHouse">RoundHouse</a>에서 장애 주입 실험으로 찾은 문제입니다. 발견부터 원인 추적, 검증, 리뷰 대응까지의 과정은 <a href="https://github.com/RosieOh/RoundHouse/blob/main/docs/case-study-litellm-router.md">케이스 스터디</a>에 정리했습니다.
+두 기여 모두 직접 만든 프로젝트를 운영하다 찾은 문제입니다. LiteLLM은 Kubernetes 운영 플랫폼 <a href="https://github.com/RosieOh/RoundHouse">RoundHouse</a>의 장애 주입 실험에서 찾았고, 과정은 <a href="https://github.com/RosieOh/RoundHouse/blob/main/docs/case-study-litellm-router.md">케이스 스터디</a>에 정리했습니다. Milvus는 임베딩 무중단 교체 하네스 <a href="https://github.com/RosieOh/VecShift">VecShift</a>의 벤치마크 환경을 꾸리다 찾았습니다.
 
 <br>
 
@@ -75,6 +76,7 @@ export class LoggerMiddleware implements NestMiddleware {
 |기간|내용|도메인|역할|
 |---|---|---|---|
 |26.09 ~ 진행중| LiteLLM AI Gateway를 Kubernetes에서 운영 수준으로 돌리는 레퍼런스 플랫폼, RoundHouse |<a href="https://github.com/RosieOh/RoundHouse">RoundHouse</a>| LLMOps / DevOps | 
+|26.09 ~ 26.09| Milvus 위에서 임베딩 모델을 무중단으로 교체하는 운영 하네스, VecShift (재색인 중 다운타임 0, 롤백 42 ms) |<a href="https://github.com/RosieOh/VecShift">VecShift</a>| LLMOps | 
 |25.07 ~ 25.08| 2025 K-Digital 해커톤 경진대회 - 유휴부지 빈집 공간 찾아주는 서비스, 따숨 |<a href="/">진행중</a>| 기획/백엔드 | 
 |25.06 ~ 25.08| 2025 오픈소스 개발자 경진대회, 맘편한 CareCode 팀장 |<a href="/">CareCode</a>| 기획/MLOps/백엔드 | 
 |25.05 ~ 25.09| 2025 카카오X한국관광공사 관광데이터 활용 경진대회 - 한국 드라마 속 여행지 추천 플랫폼, TripCut(트립컷) |<a href="/">TripCut</a>| 기획/백엔드 | 
