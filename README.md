@@ -31,7 +31,7 @@ export class LoggerMiddleware implements NestMiddleware {
 |기간|프로젝트|기여|결과|상태|
 |---|---|---|---|---|
 |26.09| <a href="https://github.com/BerriAI/litellm">LiteLLM</a> (★59k, AI Gateway) | <a href="https://github.com/BerriAI/litellm/pull/42450">#42450</a> 라우터가 fallback 전에 재시도 백오프를 기다리는 버그 수정 | provider 장애 시 fallback 응답 중앙값 5.5초 → 0.8초 | 리뷰 중 |
-|26.09| <a href="https://github.com/milvus-io/milvus">Milvus</a> (★46k, Vector DB) | <a href="https://github.com/milvus-io/milvus/pull/53431#issuecomment-5694250402">#53431 리뷰</a> 설치 문서가 내려받게 하는 v3.0.1 릴리스 첨부 compose 파일이 저장소 파일과 다른 MinIO 태그를 쓰는 문제를 근거와 함께 지적 (diff로는 보이지 않는 부분) | PR 작성자가 문제를 확인하고 후속 이슈로 분리하기로 함 | PR 진행 중 |
+|26.09| <a href="https://github.com/milvus-io/milvus">Milvus</a> (★46k, Vector DB) | <a href="https://github.com/milvus-io/milvus/pull/53431#issuecomment-5694250402">#53431 리뷰</a> 설치 문서가 내려받게 하는 v3.0.1 릴리스 첨부 compose 파일이 저장소 파일과 다른 MinIO 태그를 쓰는 문제를 근거와 함께 지적 (diff로는 보이지 않는 부분) | PR 작성자가 문제를 확인했고, 다음 릴리스 v3.0.2의 첨부 파일은 quay.io와 저장소 태그를 씀 | PR 진행 중 |
 
 두 기여 모두 직접 만든 프로젝트를 운영하다 찾은 문제입니다. LiteLLM은 Kubernetes 운영 플랫폼 <a href="https://github.com/RosieOh/RoundHouse">RoundHouse</a>의 장애 주입 실험에서 찾았고, 과정은 <a href="https://github.com/RosieOh/RoundHouse/blob/main/docs/case-study-litellm-router.md">케이스 스터디</a>에 정리했습니다. Milvus는 임베딩 무중단 교체 하네스 <a href="https://github.com/RosieOh/VecShift">VecShift</a>의 벤치마크 환경을 꾸리다 찾았습니다.
 
