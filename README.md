@@ -31,12 +31,14 @@ export class LoggerMiddleware implements NestMiddleware {
 |기간|프로젝트|기여|결과|상태|
 |---|---|---|---|---|
 |26.09| <a href="https://github.com/Arize-ai/phoenix">Phoenix</a> (★11k, LLM Observability) | <a href="https://github.com/Arize-ai/phoenix/pull/16549">#16549</a> OpenTelemetry Python 1.45에서 HTTP exporter를 쓰면 `register()`가 AttributeError로 죽던 버그 수정 | PR 10시간 만에 머지, 당일 arize-phoenix-otel 0.17.2로 PyPI 배포 | 머지 완료 |
+|26.09| <a href="https://github.com/kgateway-dev/kgateway">kgateway</a> (★5k, CNCF API·AI Gateway) | <a href="https://github.com/kgateway-dev/kgateway/pull/14769">#14769</a> OIDC 공급자 연결 실패 메시지에 discovery URL을 넣고, URL 속 비밀번호는 가리도록 수정 | IdP가 여러 개인 클러스터에서 status만 보고 실패한 공급자를 식별 | 리뷰 중 |
+|26.09| <a href="https://github.com/traceloop/openllmetry">OpenLLMetry</a> (★7k, LLM Observability) | <a href="https://github.com/traceloop/openllmetry/issues/4526">#4526</a> traceloop-sdk가 requests·httpx를 의존성으로 선언하지 않아 깨끗한 환경에서 import가 실패하는 문제 보고 | OTel 1.45에서는 requests, 1.44에서는 httpx에서 실패하는 것을 재현 | 분류 대기 |
 |26.09| <a href="https://github.com/BerriAI/litellm">LiteLLM</a> (★59k, AI Gateway) | <a href="https://github.com/BerriAI/litellm/pull/42450">#42450</a> 라우터가 fallback 전에 재시도 백오프를 기다리는 버그 수정 | provider 장애 시 fallback 응답 중앙값 5.5초 → 0.8초 | 리뷰 중 |
 |26.09| <a href="https://github.com/BerriAI/litellm">LiteLLM</a> (★59k, AI Gateway) | <a href="https://github.com/BerriAI/litellm/issues/42653">#42653</a> 조정용 Redis를 기동할 때 한 번만 확인해, 경합 뒤에는 예산이 파드 수만큼 곱해지는 문제 보고 | 파드 3개에서 예산의 3.86배 사용을 측정 | 분류 대기 |
 |26.09| <a href="https://github.com/valkey-io/valkey-helm">valkey-helm</a> (Valkey 공식 차트) | <a href="https://github.com/valkey-io/valkey-helm/pull/250">#250</a> 메트릭 exporter 사이드카의 기본 securityContext 강화 | restricted Pod Security Standard 네임스페이스에서 파드가 거부되지 않음 | PR 리뷰 중 |
 |26.09| <a href="https://github.com/milvus-io/milvus">Milvus</a> (★46k, Vector DB) | <a href="https://github.com/milvus-io/milvus/pull/53431#issuecomment-5694250402">#53431 리뷰</a> 설치 문서가 내려받게 하는 v3.0.1 릴리스 첨부 compose 파일이 저장소 파일과 다른 MinIO 태그를 쓰는 문제를 근거와 함께 지적 (diff로는 보이지 않는 부분) | PR 작성자가 문제를 확인했고, 다음 릴리스 v3.0.2의 첨부 파일은 quay.io와 저장소 태그를 씀 | PR 진행 중 |
 
-Phoenix는 OpenTelemetry Python 1.45 릴리스 직후 올라온 버그 이슈를 재현하고 원인을 찾아 고쳤습니다. 나머지는 모두 직접 만든 프로젝트를 운영하다 찾은 문제입니다. LiteLLM은 Kubernetes 운영 플랫폼 <a href="https://github.com/RosieOh/RoundHouse">RoundHouse</a>의 장애 주입 실험에서 찾았고, 과정은 <a href="https://github.com/RosieOh/RoundHouse/blob/main/docs/case-study-litellm-router.md">케이스 스터디</a>에 정리했습니다. Milvus는 임베딩 무중단 교체 하네스 <a href="https://github.com/RosieOh/VecShift">VecShift</a>의 벤치마크 환경을 꾸리다 찾았습니다. LiteLLM과 valkey-helm은 RoundHouse에서, 각각 장애 주입과 restricted Pod Security Standard 적용 중에 나왔습니다. 이 밖에 LiteLLM에 검증 리뷰와 트리아지 코멘트 4건을 남겼습니다.
+Phoenix와 kgateway는 다른 사람이 올린 이슈를 재현하고 고쳤습니다. Phoenix는 OpenTelemetry Python 1.45 릴리스 직후 올라온 버그였습니다. OpenLLMetry는 LLM SDK의 OpenTelemetry 호환성을 매일 확인하는 <a href="https://github.com/RosieOh/otel-canary">otel-canary</a>를 준비하며 SDK들을 조사하다 찾았습니다. 나머지는 모두 직접 만든 프로젝트를 운영하다 찾은 문제입니다. LiteLLM은 Kubernetes 운영 플랫폼 <a href="https://github.com/RosieOh/RoundHouse">RoundHouse</a>의 장애 주입 실험에서 찾았고, 과정은 <a href="https://github.com/RosieOh/RoundHouse/blob/main/docs/case-study-litellm-router.md">케이스 스터디</a>에 정리했습니다. Milvus는 임베딩 무중단 교체 하네스 <a href="https://github.com/RosieOh/VecShift">VecShift</a>의 벤치마크 환경을 꾸리다 찾았습니다. LiteLLM과 valkey-helm은 RoundHouse에서, 각각 장애 주입과 restricted Pod Security Standard 적용 중에 나왔습니다. 이 밖에 LiteLLM에 검증 리뷰와 트리아지 코멘트 4건을 남겼습니다.
 
 <br>
 
@@ -78,6 +80,7 @@ Phoenix는 OpenTelemetry Python 1.45 릴리스 직후 올라온 버그 이슈를
 
 |기간|내용|도메인|역할|
 |---|---|---|---|
+|26.09 ~ 진행중| LLM 관측성 SDK가 OpenTelemetry Python의 새 버전과 main에서도 동작하는지 매일 확인하는 호환성 카나리, otel-canary |<a href="https://github.com/RosieOh/otel-canary">otel-canary</a>| LLMOps / DevOps | 
 |26.09 ~ 진행중| LiteLLM AI Gateway를 Kubernetes에서 운영 수준으로 돌리는 레퍼런스 플랫폼, RoundHouse |<a href="https://github.com/RosieOh/RoundHouse">RoundHouse</a>| LLMOps / DevOps | 
 |26.09 ~ 26.09| Milvus 위에서 임베딩 모델을 무중단으로 교체하는 운영 하네스, VecShift (재색인 중 다운타임 0, 롤백 42 ms) |<a href="https://github.com/RosieOh/VecShift">VecShift</a>| LLMOps | 
 |25.07 ~ 25.08| 2025 K-Digital 해커톤 경진대회 - 유휴부지 빈집 공간 찾아주는 서비스, 따숨 |<a href="/">진행중</a>| 기획/백엔드 | 
